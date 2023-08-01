@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.bg {
+  height: 50px;
+  padding: 0 10px;
+  display: flex;
+  align-items: center;
+}
+.bg .box {
+  height: 36px;
+  background-color: #ffffff;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bg .box .placeholder {
+  font-size: 15px;
+  margin-left: 5px;
+}
+
